@@ -11,6 +11,7 @@ public class TestSet {
     // TODO Auto-generated method stub
     Set<Integer> t = new HashSet<>();
     List<Integer> l = new ArrayList<>();
+    
     for(int i=0; i<10; i++) {
       t.add(0);
       l.add(0);
